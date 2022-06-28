@@ -274,6 +274,9 @@ gulp ngrok-serve
     git clone https://github.com/OfficeDev/Microsoft-Teams-Samples.git
     ```
 
+   > [!NOTE]
+   > Run a 'git status' command in your terminal of choice to confirm the sample was cloned successfully. You may need to apply the git command 'git config --system core.  longpaths true' in your administrator terminal to prevent the cloning error "Filename too long."
+
 Following are the steps to create a personal tab:
 
 1. [Generate your application with a personal tab](#generate-your-application-with-a-personal-tab-1)
@@ -427,6 +430,8 @@ ngrok http 3978 --host-header=localhost
     git clone https://github.com/OfficeDev/Microsoft-Teams-Samples.git
     ```
 
+  > [!NOTE]
+  > Run a 'git status' command in your terminal of choice to confirm the sample was cloned successfully. You may need to apply the git command 'git config --system core.  longpaths true' in your administrator terminal to prevent the cloning error "Filename too long."
 Following are the steps to create a personal tab:
 
 1. [Generate your application with a personal tab](#generate-your-application-with-a-personal-tab-2)
