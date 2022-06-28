@@ -306,6 +306,7 @@ items:
       1. Select **Add permissions**.
 
           :::image type="content" source="~/assets/images/meetings-side-panel/other-permissions.png" alt-text="Other permissions" border="true":::
+          :::image type="content" source="~/assets/images/meetings-side-panel/other-permissions2.png" alt-text="Other permissions" border="true":::
 
       1. From the left panel, select **Authentication** to set a redirect URI. 
 

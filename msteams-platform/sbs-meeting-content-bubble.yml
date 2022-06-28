@@ -310,6 +310,7 @@ items:
       1. Select **Add permissions**.
 
           :::image type="content" source="~/assets/images/meeting-content-bubble/meeting-token-generator-otherpermissions.png" alt-text="Other permissions" border="true":::
+          :::image type="content" source="~/assets/images/meeting-content-bubble/meeting-token-generator-otherpermissions2.png" alt-text="Other permissions" border="true":::
 
       1. From the left panel, select **Authentication** to set a redirect URI. 
 
